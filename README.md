@@ -1,2 +1,0 @@
-# terraform
-Teraform Snippets 
